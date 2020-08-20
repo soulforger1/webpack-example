@@ -1,2 +1,2 @@
-var randomButton = document.querySelector('#random-button');
-var hello = document.querySelector('#hello');
+export const randomButton = document.querySelector('#random-button');
+export const hello = document.querySelector('#hello');
